@@ -1,5 +1,5 @@
 async function eventHandler(event: FetchEvent): Promise<Response> {
-  return new Response("Hello from FastEdge! 0.0.1");
+  return new Response("Hello from FastEdge! PRRRRR");
 }
 
 addEventListener("fetch", (event: FetchEvent) => {
